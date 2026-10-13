@@ -1,0 +1,6 @@
+{
+  "name": "Pete's Fitness Factory",
+  "description": "Pete's Fitness Factory - Premier 24-hour strength and fitness facility. Expert personal training, custom diet plans, dedicated ladies hours, and state-of-the-art equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
